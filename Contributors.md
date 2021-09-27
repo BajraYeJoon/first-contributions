@@ -176,6 +176,7 @@
 - [Ly Harriet Bui](https://github.com/HarrietLyBui)
 - [Rahul Maurya](https://github.com/CodeBlooded-RahulMaurya)
 - Dim Chika
+- [Binaya Bajracharya]
 - [Carl Altoveros](https://github.com/carlaltoveros)
 - [Tay West](https://github.com/tayannewest)
 - [Kevin diyelectromusic](https://github.com/diyelectromusic)
